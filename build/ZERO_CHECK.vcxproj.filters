@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\vcpkg\CarND-Extended-Kalman-Filter-Project\build\CMakeFiles\0d5dc08e7a52cdb93cbc677e580d0594\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9DFF7FD9-C1FE-3B1A-8B47-292AB38F6EA7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

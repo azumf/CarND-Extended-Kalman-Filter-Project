@@ -1,0 +1,12 @@
+﻿  kalman_filter.cpp
+C:\vcpkg\CarND-Extended-Kalman-Filter-Project\src\kalman_filter.cpp(41): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\vcpkg\CarND-Extended-Kalman-Filter-Project\src\kalman_filter.cpp(42): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\vcpkg\CarND-Extended-Kalman-Filter-Project\src\kalman_filter.cpp(45): warning C4305: "=": Verkürzung von "double" in "float"
+C:\vcpkg\CarND-Extended-Kalman-Filter-Project\src\kalman_filter.cpp(46): warning C4305: "=": Verkürzung von "double" in "float"
+C:\vcpkg\CarND-Extended-Kalman-Filter-Project\src\kalman_filter.cpp(74): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\vcpkg\CarND-Extended-Kalman-Filter-Project\src\kalman_filter.cpp(75): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\vcpkg\CarND-Extended-Kalman-Filter-Project\src\kalman_filter.cpp(76): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\vcpkg\CarND-Extended-Kalman-Filter-Project\src\kalman_filter.cpp(77): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\vcpkg\CarND-Extended-Kalman-Filter-Project\src\kalman_filter.cpp(81): warning C4305: "=": Verkürzung von "double" in "float"
+C:\vcpkg\CarND-Extended-Kalman-Filter-Project\src\kalman_filter.cpp(82): warning C4305: "=": Verkürzung von "double" in "float"
+  ExtendedKF.vcxproj -> C:\vcpkg\CarND-Extended-Kalman-Filter-Project\build\Debug\ExtendedKF.exe
